@@ -1,0 +1,7 @@
+main: net.cibmc.spigot.ckb.PluginMain
+name: ckb
+version: 1.16.1
+api-version: 1.16
+commands:
+  ckbadmin:
+    description: admin command        
